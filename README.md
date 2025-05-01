@@ -1,6 +1,11 @@
-# DSC_672_software_pres
+# DSC_672_Software_Presentation_Jenkins
 # Yaseen Ghani
 # Jenkins Tutortial
+
+Please reach out to yghani1@depaul.edu with any questions!
+
+Youtube video link: 
+https://youtu.be/lkt5BqOp9y0
 
 ## Cloning from github
 ```
